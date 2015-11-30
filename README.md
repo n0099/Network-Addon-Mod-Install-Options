@@ -1,10 +1,13 @@
-##### 原文录入进度：*尚未开始*
+##### 原文录入进度：正在录入
 ---------------------------
-- [ ] Main NAM Files……*尚未开始*
-- [ ] Documentation……*尚未开始*
-- [ ] Run Cleanitol and the Station Updater……*尚未开始*
-- [ ] Traffic Driving Side (Usually shouldn't be changed)……*尚未开始*
-- [ ] Traffic Simulator and Related Options……*尚未开始*
-- [ ] NAM Networks and Network Expansions……*尚未开始*
+- [X] Main NAM Files……*已录入*（By **n0099**）
+- [X] Documentation……*已录入*（By **n0099**）
+- [X] Run Cleanitol and the Station Updater……*已录入*（By **n0099**）
+- [X] Traffic Driving Side (Usually shouldn't be changed)……*已录入*（By **n0099**）
+- [X] Traffic Simulator and Related Options……*已录入*（By **n0099**）
+  - [X] Select Traffic Simulator and Capacity Levels……*已录入*（By **n0099**）
+  - [X] New Zones Data View……*已录入*（By **n0099**）
+  - [X] Automata Controller Type……*已录入*（By **n0099**）
+- [ ] NAM Networks and Network Expansions……**正在录入**（By **n0099**）
 - [ ] Stations, Ports, and Network Transitions……*尚未开始*
 - [ ] Additional Features and Customizations……*尚未开始*

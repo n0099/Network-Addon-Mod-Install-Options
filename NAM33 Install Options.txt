@@ -12,3 +12,60 @@
  *   -这是该选项（根选项）的不可展开子选项
  *     这是该不可展开子选项的描述
 */
+
+-Main NAM Files
+  The Network Addon Mod will introduce numerous network and traffic enhancements to the game.
+
+-Documentation
+  This will install the documentation for the Network Addon Mod.
+
+-Run Cleanitol and the Station Updater
+  Run the Cleanitol program, which removes all plugins incompatible with the NAM from your system.
+  This is automatically done at a NAM upgrade, and usually doesn't have to be done otherwise.
+
++Traffic Driving Side (Usually shouldn't be changed)
+  The traffic driving side is usually set automatically, but can be changed here if necessary.
+  -Game traffic drives on right side of road
+    Choose this option only if your traffic drives on the right side of the road in the game.
+  -Game traffic drives on left side of road
+    Choose this option only if your traffic drives on the left side of the road in the game.
+
++Traffic Simulator and Related Options
+  Includes options for the NAM Traffic Simulator, the Automata Controller, and the new Zones Data View.
+  +Select Traffic Simulator and Capacity Levels
+    Choose one of the Traffic Simulators here.
+    Custom Traffic Simulators can be created with the Traffic Simulator Configuration Tool, which is optionally installed at the end of the main NAM installation.
+    -NAM Traffic Simulator Classic
+      Uses the standard Maxis capacities; useful for rural areas and towns.
+    -NAM Traffic Simulator Low
+      Increases capacities a little; useful for small to medium-sized cities.
+    -NAM Traffic Simulator Medium
+      Increases capacities a bit more; useful for medium to large-sized cities.
+    -NAM Traffic Simulator High
+      Increases capacities considerably; useful for large cities, or very large cities with little mass transit.
+    -NAM Traffic Simulator Ultra
+      Increases capacities a lot; useful for very large cities, especially with much regional traffic.
+    -Keep my previous traffic simulator
+      Retains the traffic simulator that is currently installed.
+    -Build a custom traffic simulator
+      Allows you to build a custom traffic simulator at the end of this installation.
+  -New Zones Data View
+    Choose this option to add all networks and props to the standard Zones Data View.
+    The exact composition of this view can be refined by using the Traffic Simulator Configuration Tool.
+  +Automata Controller Type
+    Choose one of the Automata Controllers here.
+    Custom Automata Controllers can be created with external tools, such as Ilive's Reader.
+    -Persistent Automata
+      This option makes the display of all automata last longer.
+      It reduces the game speed slightly.
+    -Standard Automata Numbers
+      At a minimum, this option is required as it adds additional functionality.
+    -Standard Automata Numbers 24h
+      This option increases the overall display of automata so that they appear for most of the 24 hour Sim day.
+      It reduces the game speed slightly.
+    -Radical Automata Numbers
+      This option signifcantly adjusts the overall display of Automata so that they appear more.
+      It reduces the game speed slightly.
+    -Radical Automata Numbers 24h
+      This option signifcantly adjusts the overall display of Automata so that they appear more for most of the 24 hour Sim day.
+      It reduces the game speed moderately.
