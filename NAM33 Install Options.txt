@@ -69,3 +69,189 @@
     -Radical Automata Numbers 24h
       This option signifcantly adjusts the overall display of Automata so that they appear more for most of the 24 hour Sim day.
       It reduces the game speed moderately.
+
++NAM Networks and Network Expansion
+  Contains all the new NAM networks, as well as extensions to the existing Maxis networks.
+  +Bullet Train Mod (BTM)
+    Installs the Bullet Train Mod by Moonlight.
+    This mod completely replaces the standard monorail, and has many additional features.
+    It is based on the Japanese Shinkansen high-speed rail line.
+    -Main Bullet Train Mod
+      Installs the core files necessary for using the Bullet Train Mod.
+    -Ground Texture
+      Installs a special ground texture resembling a shadow underneath the Bullet Train Mod tracks.
+    -Alternate Concrete Texture
+      Replaces the Primary Concrete Texture with an almost-identical alternate one.
+    -Fence Prop
+      Adds a fence at ground level all around the route of the Bullet Train Mod.
+    -N700 Series Shinkansen Train
+      Replaces the standard monorail train with a detailed replica of the N700 Series Shinkansen train.
+  +Canal Addon Mod (CAN-AM)
+    Allows you to choose either the SimGoober or Callagrafx version of the Canal Addon Mod.
+    -SimGoober's Canals
+      With this option you can build functional canals for SimGoober's canal system.
+    -Callagrafx' Canals
+      With this option you can build functional canals for Callagrafx' canal system.
+  -Diagonal Streets
+    Use this option for installing Diagonal Streets.
+  -Double-Height Monorail / Bullet Train Mod
+    Use this option for creating double-height Monorail or Bullet Train (Shinkansen) networks.
+  +El Rail
+    Contains different variations and extensions of the El Rail network.
+    +El Rail Alternate Implementation
+      This is Moononght's implementation of the El Rail network.
+      Although it is based on a Japanese El Rail network, it has more complex pieces than the standard El Rail, and fits in almost anywhere.
+      -Core El Rail Network
+        Installs the core files necessary for using Moonlinght's El Rail Alternate Implementation.
+      -El Rail Catenaries
+        Adds catenary props to the El Rail Alternate Implementation.
+      -El Rail Fence Props
+        Adds a fence at ground level all around the route of Moonlinght's El Rail Alternate Implementation.
+      -El Rail Ground Texture
+        Installs a special ground texture resembling a shadow underneath the El Rail tracks.
+      -El Rail Cool Color Concrete Texture
+        Replaces the standard Warm Color Concrete Texture with a slightly cooler-colored one.
+    -El Rail over Avenue Networks
+      This option allows you to create El Rail over Avenue and El Rail over RD-4 networks.
+    -El Rail over Road Networks
+      This option allows you to create El Rail over Road and El Rail over Street networks.
+    -Double-Height Elevated Rail
+      This option contains puzzle pieces for creating double-height sections of your Elevated Rail networks.
+  +Elevated Road Networks
+    Contains both the Draggable and Modular versions of the Elevated Road Networks, which consist of elevated versions of the Road, One-Way Road, and Avenue networks.
+    These two options are totally independent.
+    -Draggable Elevated Road Networks
+      Installs draggable, elevated versions of the Road, one-Way Road, and Avenue networks.
+    -Modular Elevated Road Networks
+      Installs both overpasses and puzzle pieces for the elevated versions of the Road, one-Way Road, and Avenue networks.
+  -Flexible Underpasses (FLUPs)
+    Use this option for creating Flexible Underpasses.
+  +Fractionally Angled Networks (FANs)
+    Enable Fractionally Angled Networks.
+    Currently, two angles are supported: 18.43° and 26.57° along with their complements, 71.57° and 63.43°.
+    The basic repeating patterns require 2x3 tiles and 2x2 tiles, respectively.
+    -Fractionally Angled Road Networks (FARs)
+      This option allows you to create Fractionally Angled Roads, One-Way Roads, and Avenues using puzzle pieces.
+    -Fractionally Angled Railroads (FARRs)
+      This option allows you to create Fractionally Angled Railroads using puzzle pieces.
+    -Draggable FAR
+      This option allows you to create Fractionally Angled Roads by dragging without having to use puzzle pieces.
+  +Ground Light Rail / Tram
+    Choose options for Ground Light Rail / Tram functionality.
+    -Ground Light Rail
+      Use this option for creating Ground Light Rail networks.
+      These are differentiated from the Tram networks in that Ground Light Rail does not travel in or on streets, roads, or avenues.
+    -Tram in Avenue
+      Use this option for creating Tram in Avenue networks.
+    -Tram in Road
+      Use this option for creating Tram in Road and Tram on Road networks.
+    -Tram in Street
+      Use this option for creating Tram in Street networks.
+    -Extended Draggable Ground Light Rail
+      Use this option to enable two additional Tram styles with customizable base textures (requires rebuilding pillars on Elevated Rail).
+  -High Speed Rail Plugin
+    The High Speed Rail Project adds a new Monorail-based network extension to the game, with the look and feel of a High Speed Rail Project line.
+    It does not replace the current Monorail or Bullet Train network.
+  -Maxis Highway Override
+    Overrides the standard Maxis highway with a highway more compatible with the RHW.
+    The standard Maxis Highway interchanges are replaced and fractionally-angled Maxis highway (FAMHW) support is added.
+  +Network Widening Mod (NWM)
+    Choose options for Network Widening Mod functionality.
+    The Network Widening Mod contains roads, one-way roads, and avenues with more lanes, and/or center turning lanes for avenues, as well as other options.
+    +NWM Networks
+      The Network Widening Mod adds new network variations with variable widths to the game for Roads, One-Way Roads, and Avenues, built from starter pieces.
+      -NWM TLA-3
+      -NWM AVE-2
+      -NWM ARD-3
+      -NWM OWR-1
+      -NWM OWR-3
+      -NWM NRD-4
+      -NWM TLA-5
+      -NWM OWR-4
+      -NWM OWR-5
+      -NWM RD-4
+      -NWM RD-6
+      -NWM Triple-Tile Networks
+    -Legacy Transition Piece Wealthification
+      Adds grass/sidewalk textures to Transition Puzzle Pieces.
+      MAY NOT WORK WITH SOME GRAPHICS CARDS.
+  -Ped Malls
+    Installs ped malls, which are tiles of various textures that permit pedestrian traffic in all directions, but no other type of traffic.
+  +Rail
+    Includes new types of rail networks.
+    -RealRailway (RRW)
+      Changes the look of the default heavy rail network to a more realistic look and adds functionality.
+    -Single Track Rail (STR)
+      Installs Single-Track Railroads.
+    -Underground Rail
+      Installs the Underground Rail network, which is an underground version of the standard heavy rail network.
+    -Viaduct Rail
+      Installs the Viaduct Rail network, which is an elevated version of the standard heavy rail network.
+  +Real Highway Mod (RHW)
+    Includes the full Real Highway Mod, which is a completely different alternative to the standard Maxis highways, with almost innumerable types of customizations available.
+    It does not replace the Maxis highways.
+    +RHW L0 Networks
+      -RHW L0 RHW-2
+      -RHW L0 RHW-3
+      -RHW L0 MIS
+      -RHW L0 RHW-4
+      -RHW L0 RHW-6S
+      -RHW L0 RHW-8S
+      -RHW L0 RHW-10S
+      -RHW L0 RHW-6C
+      -RHW L0 RHW-8C
+    +RHW L1 Networks
+      -RHW L1 RHW-2
+      -RHW L1 RHW-3
+      -RHW L1 MIS
+      -RHW L1 RHW-4
+      -RHW L1 RHW-6S
+      -RHW L1 RHW-8S
+      -RHW L1 RHW-10S
+      -RHW L1 RHW-6C
+      -RHW L1 RHW-8C
+    +RHW L2 Networks
+      -RHW L2 RHW-2
+      -RHW L2 RHW-3
+      -RHW L2 MIS
+      -RHW L2 RHW-4
+      -RHW L2 RHW-6S
+      -RHW L2 RHW-8S
+      -RHW L2 RHW-10S
+      -RHW L2 RHW-6C
+      -RHW L2 RHW-8C
+    +RHW L3 Networks
+      -RHW L3 MIS
+      -RHW L3 RHW-4
+      -RHW L3 RHW-6S
+    +RHW L4 Networks
+      -RHW L4 MIS
+      -RHW L4 RHW-4
+      -RHW L4 RHW-6S
+    +DDRHW Networks
+      -RHW DDRHW-4
+    -FARHW
+  -Rural Roads Plugin
+    This installs a series of cosmetic puzzle pieces designed to make roads look more rural.
+  +Street Addon Mod (SAM)
+    Choose options for Street Addon Mod functionality.
+    -SAM Set 1 - Parking Lots
+      This installs the SAM Parking Lot Textures.
+    -SAM Set 2 - Herringbone Brick Streets
+      This installs the Herringbone Brick Street Textures.
+    -SAM Set 3 - PEG Dirt Streets
+      This installs the PEG Dirt Street Textures.
+    -SAM Set 4 - PEG Gravel Streets
+      This installs the PEG Gravel Street Textures.
+    -SAM Set 5 - Trolca Dirt Streets
+      This installs the Trolca Dirt Street Textures.
+    -SAM Set 6 - Klinker Euro Streets
+      This installs the Klinker Euro Street Textures.
+    -SAM Set 7 - Asphalt Streets
+      This installs the Asphalt Street Textures.
+    -SAM Set 8 - Cobblestone Streets
+      This installs the Cobblestone Street Textures.
+    -SAM Set 9 - Brick Streets
+      This installs the Brick Street Textures.
+    -SAM Set 10 - Japanese Streets
+      This installs the Japanese Street Textures created by Moonlinght.
