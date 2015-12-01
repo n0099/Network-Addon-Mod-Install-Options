@@ -26,5 +26,15 @@
   - [X] Real Highway Mod (RHW)……*已录入*（By **n0099**）
   - [X] Rural Roads Plugin……*已录入*（By **n0099**）
   - [X] Street Addon Mod (SAM)……*已录入*（By **n0099**）
-- [ ] Stations, Ports, and Network Transitions……**正在录入**（By **n0099**）
-- [ ] Additional Features and Customizations……*尚未开始*
+- [X] Stations, Ports, and Network Transitions……*已录入*（By **n0099**）
+  - [X] Upgraded Maxis Transit Lots……*已录入*（By **n0099**）
+  - [X] Maxis Airports……*已录入*（By **n0099**）
+  - [X] Bus Rapid Transit Stations……*已录入*（By **n0099**）
+  - [X] El Rail Stations……*已录入*（By **n0099**）
+  - [X] GLR and Tram Stations……*已录入*（By **n0099**）
+  - [X] High Speed Rail Stations……*已录入*（By **n0099**）
+  - [X] Monorail and Bullet Train Stations……*已录入*（By **n0099**）
+  - [X] Multi-Purpose Stations……*已录入*（By **n0099**）
+  - [X] Network Transitions and Connectors……*已录入*（By **n0099**）
+  - [X] Rail Stations……*已录入*（By **n0099**）
+- [ ] Additional Features and Customizations……**正在录入**（By **n0099**）

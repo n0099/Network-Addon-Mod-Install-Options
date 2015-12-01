@@ -255,3 +255,239 @@
       This installs the Brick Street Textures.
     -SAM Set 10 - Japanese Streets
       This installs the Japanese Street Textures created by Moonlinght.
+
++Stations, Ports, and Network Transitions
+  Upgrades the standard Maxis transit lots, and includes many more stations and network transitions that are useful with the NAM.
+  -Upgraded Maxis Transit Lots
+    Upgrades the capacities and transit switch entry costs (TSECs) of the standard Maxis transit lots to conform with the NAM standard.
+  +Maxis Airports
+    Set the commercial and freight capacity of the Maxis airports, along with the demand for jobs for them.
+    Switching among these options affects airports that are already placed in the game.
+    (Airports are operated by Nocturnal Aviation.)
+    -Low Capacity Airports (Maxis)
+      Uses the standard capacity Maxis airports in the game.
+    -Medium Capacity Airports (4x)
+      Makes the Maxis airports handle four times the commercial and freight capacity of the standard airports, and creates demand for four times the jobs for them.
+    -High Capacity Airports (8x)
+      Makes the Maxis airports handle eight times the commercial and freight capacity of the standard airports, and creates demand for eight times the jobs for them.
+  +Bus Rapid Transit Stations
+    -BriPizza Elevated Roadway Station
+      A bus and subway station for elevated toadways, based on a station by E-N (BriPizza).
+      For elevated roads, one station on one side will serve both directions.
+      For elevated avenues, a station on each side is needed for full service.
+    -Overhanging Bus Rapid Transit Station
+      A modern bus rapid transit station modeled by Xyloxadoria that includes optional subway service.
+      Be sure to plop the Bus Rapid Transit Other Side lot in the far column.
+    +Bus Rapid Transit Filter Lots
+      These single-tile lots appear as appropriate levels of the RHW-2.
+      They allow only buses to pass through them and block all other motorized traffic.
+      -Bus Rapid Transit Filter for L0 RHW-2
+        This single-tile lot appear as a single tile of the L0 RHW-2 network.
+        It allows only buses and pedestrians to pass through it and block all other motorized traffic.
+      -Bus Rapid Transit Filter for L1 RHW-2
+        This single-tile lot appear as a single tile of the L1 RHW-2 network.
+        It allows only buses to pass through it and block all other traffic.
+      -Bus Rapid Transit Filter for L2 RHW-2
+        This single-tile lot appear as a single tile of the L2 RHW-2 network.
+        It allows only buses to pass through it and block all other traffic.
+  +El Rail Stations
+    This option contains the El Rail stations that are available for the various El Rail networks, including the basic Maxis El Rail Network.
+    -El Rail Station with Bus and Subway
+      A basic El Rail Station, based on the Maxis El Rail Station, but including bus and optional subway service.
+    -Victorian El Rail Station (Orthogonal)
+      A Victorian El Rail station by Morifari with a one-tile overhang designed to go over a road.
+      Bus and optional subway service are included.
+      Drag the El Rail tool through the station to activate it.
+    -Victorian El Rail Station (Diagonal)
+      A diagonal version of the Victorian El Rail station by Morifari, also with a one-tile overhang designed to go over a road.
+      Bus and optional subway service are included.
+      Drag the El Rail tool through the station to activate it.
+    -Modern El Rail Station
+      A modern El Train station by Brenda Xne with bus and subway service, as well as car parking.
+      It has a translucent roof (made by Swamper77), so you can see the trains go by inside the station.
+    -Overhanging El Rail Station
+      A modern overhanging El Train station by Xyloxadoria.
+      Bus and optional subway service are included.
+      Drag the El Rail tool through the station to activate it, then be sure to plop the El Rail Other Side lot in the opposite column.
+    -Diagonal El Rail Station
+      A modern diagonal El Train station by Xyloxadoria.
+      Bus and optional subway service are included.
+      Drag the El Rail tool through the station to activate it.
+    -Morifari Straight El Rail Station
+      A modern overhanging El Train station by Morifari.
+      Bus and optional subway service are included.
+      Drag the El Rail tool through the station to activate it.
+    -Morifari Diagonal El Rail Station
+      A modern diagonal El Train station by Morifari.
+      Bus and optional subway service are included.
+      Drag the El Rail tool through the station to activate it.
+    -Double-Height Elevated Rail Station
+      This is a station by Xyloxadoria for double-height Elevated Rail.
+      Bus and optional subway service are included, as well as parking.
+    +El Rail over Avenue Stations
+      These stations are for use use with the NAM's El Rail over Avenue and El Rail over RD-4 networks.
+      -Morgan-Lake Station
+        This is a detailed replica by Droric of the new CTA station at Morgan and Lake on Chicago's Green and Pink lines.
+        It can be used in an Avenue or RD-4 network.
+        Bus and optional subway service are included.
+    +El Rail over Road Stations
+      These stations are for use use with the NAM's El Rail over Road network.
+      -CTA Madison and Wells Station
+        This is a detailed replica by Ardecila of the CTA Beaux-Arts style El Rail over Road station that stood at the intersection of Madison and Wells in Chicago's Loop from 1897 to 1994.
+        Bus and optional subway service are included.
+      -CTA Ashland Station
+        This is a detailed replica by Ardecila of the CTA Queen Anne style El Rail over Road station that was built at the intersection of Ashland and Lake in Chicago in 1892.
+        Bus and optional subway service are included.
+      -Overhanging El Rail over Road Station
+        An El Rail over Road station built on Xyloxadoria's Modern Overhanging Station model.
+        Build your network and optional intersection around the two station end tiles, then plop this station and the El Rail over Road Other Side lot.
+  +GLR and Tram Stations
+    This option contains stations for Ground Light Rail, both in its standalone form and as trams, which go down the middle of roadways.
+    +GLR Stations
+      This option contains GLR stations; GLR is essentially a ground form of Elevated Rail.
+      -SFBT Dentei GLR Station (Orthogonal)
+        A basic straight GLR station, two tiles long, with bus service.
+        Model by NOB, station by Chrisim.
+      -SFBT Dentei GLR Station (Diagonal)
+        A basic diagonal GLR station, two tiles long, with bus service.
+        Model by NOB, station by Chrisim.
+      -Modern GLR Station
+        A modern 1x4 GLR Station with integrated bus stop by Brenda Xne.
+    +Tram Stations
+      Tram stations are for tram lines, which go down the middle of streets, roads, and avenues.
+      -SFBT Dentei Tram-in-Avenue Station (Orthogonal)
+        A basic straight tram station, going down the space between avenue lanes.
+        It is two tiles long, and includes bus service.
+        Model by NOB, station by Chrisim.
+      -SFBT Dentei Tram-in-Avenue Station (Diagonal)
+        A basic diagonal tram station, going down the space between avenue lanes.
+        It is two tiles long, and includes bus service.
+        Model by NOB, station by Chrisim.
+      -SFBT Tram-in-Road Station (Single Length)
+        A basic straight tram station, going down the space between two road lanes.
+        It is one tile long, and includes bus service.
+        Station by Chrisim.
+      -SFBT Tram-in-Road Station (Double Length)
+        A basic straight tram station, going down the space between two road lanes.
+        It is two tiles long, and includes bus service.
+        Station by Chrisim.
+      -SFBT Tram-in-Road Station (Triple Length)
+        A basic straight tram station, going down the space between two road lanes.
+        It is three tiles long, and includes bus service.
+        Station by Chrisim.
+      -SFBT Tram-on-Street Stop
+        A basic straight tram station, going down the middle of a street.
+        It is one tile long, and includes bus service.
+        Station by Chrisim.
+  +High Speed Rail Stations
+    High Speed Rail stations are designed for the High Speed Rail network, which is a monorail-based network that can coexist with either monorail or the Bullet Train Mod.
+    -Modern Arched HSR Station
+      A long, 1x6 modern arched High Speed Rail station by Xyloxadoria.
+      Includes bus and subway service.
+    -Modern Arched GHSR Station
+      A long, 1x6 modern arched Ground High Speed Rail station by Xyloxadoria.
+      Includes bus service.
+    -Diagonal HSR Station
+      A modern diagonal high speed rail station by Xyloxadoria that includes bus and optional subway service.
+      Be sure to drag the monorail tool through the station after plopping it; you must start dragging from an HSR tile.
+    -Overhanging HSR Station
+      A modern overhanging HSR station by Xyloxadoria that includes bus and subway service.
+      Be sure to plop the HSR Other Side lot in the far column and then drag the monorail tool through the station, starting from an HSR tile.
+    -Morifari Straight HSR Station
+      A modern overhanging HSR station by Morifari.  Bus and optional subway service are included.
+      Starting from an HSR tile, drag the Monorail tool through the station to activate it.
+    -HSRP Transit Hub
+      A large, 6x8 High Speed Rail Project Transit Hub by 3ddz, refurbished by Andreas.
+      It contains two HSR lines, one rail line with both passenger and freight service, freight service for trucks, bus service, and subway service.
+  +Monorail and Bullet Train Stations
+    These stations serve monorail lines, or the Bullet Train (Shinkansen) lines if that mod is installed.
+    -Modern Monorail and Bullet Train Station
+      A Modern Monorail and Bullet Train Station by Brenda Xne that includes bus and optional subway service.
+    -Overhanging Monorail / Bullet Train Station
+      A modern overhanging monorail or bullet train station by Xyloxadoria that includes bus and subway service.
+      Be sure to plop the Monorail Other Side lot in the far column and then drag the monorail tool through the station.
+    -Diagonal Monorail / Bullet Train Station
+      A modern diagonal monorail or bullet train station by Xyloxadoria that includes bus and optional subway service.
+      Be sure to drag the monorail tool through the station after plopping it.
+    -Double-Height Monorail / Bullet Train Station
+      A modern double-height monorail or bullet train station by Xyloxadoria that includes bus and optional subway service, as well as parking.
+      Plop this 1x4 station in place after building the network around it.
+    -Japanese Bullet Train Station
+      A Japanese Shinkansen Bullet Train station by Moonlinght.
+      Includes bus and optional subway service.
+    -Morifari Straight Monorail / Bullet Train Station
+      A modern overhanging Monorail or Bullet Train station by Morifari.
+      Bus and optional subway service are included.
+      Drag the Monorail tool through the station to activate it.
+    -Morifari Diagonal Monorail / Bullet Train / HSR Station
+      A modern diagonal Monorail, Bullet Train, or HSR station by Morifari.
+      Bus and optional subway service are included.  Drag the Monorail tool through the station to activate it.
+      Start from an HSR tile if you want an HSR station.
+  +Multi-Purpose Stations
+    -BriPizza 15m Multi-Purpose Station
+      A station offering service for any single-width 15m network, in addition to bus and optional subway service.
+      Created by E-N (BriPizza).
+    -BriPizza 15m Station with Parking
+      A station offering service for any single-width 15m network, in addition to bus, parking, and optional subway service.
+      Created by E-N (BriPizza).
+    -BriPizza Arched Station
+      A station with multiple arches offering service for any single-width 15m network, in addition to bus and optional subway service.
+      Created by E-N (BriPizza).
+    -BriPizza 0m-15m Multi-Purpose Station
+      A station offering any combination of single-width ground level and 15m networks, in addition to bus and optional subway service.
+      Created by E-N (BriPizza).
+    -BriPizza 15m-30m Multi-Purpose Station
+      A station offering any combination of single-width 15m and 30m networks, in addition to bus and optional subway service.
+      Created by E-N (BriPizza).
+    -BriPizza Norikae Station
+      A more elaborate station offering any combination of single-width ground level and 15m networks, in addition to bus and optional subway service.
+      Created by E-N (BriPizza).
+    -Ninja Boulevard Kiosk
+      A 1x1 five-function transit building that supports parking, buses, subways, trains and freight trucks, all dependant on what you connect to the building.
+      Created by RalphaelNinja.
+    -Ninja Boulevard Station
+      A 1x5 five-function transit building that supports parking, buses, subways, trains and freight trucks, all dependant on what you connect to the building.
+      Created by RalphaelNinja.
+  +Network Transitions and Connectors
+    These are transit lots that are not stations, but instead permit Sims to transfer smoothly from one network to another.
+    -SFBT GLR to Subway Transition
+      This transition permits surface Ground Light Rail to enter a tunnel to connect up with a subway network.
+    -RTMT Tram to Subway Transitions
+      These transitions convert Tram in Avenue and Tram in Road to standard Avenue and Road, with the tram going underground and joining a subway and/or Underground Rail line.
+    -Subway to Underground Rail Connectors (ESURE)
+      These transitions convert Underground Rail to Subway and vice versa; they come in a number of lots with different road and ped mall transit options on top.
+      These lots are most useful for extending the Underground Rail network.
+  +Rail Stations
+    These lots contain various rail stations, including stations for Viaduct Rail.
+    -Modern Arched Rail Station
+      This is a 1x6 modern train station that uses the same model as Xyloxadoria's GHSR station.
+      Bus service is included, and subway service is optional.
+    +Viaduct Rail Station
+      These stations all service Viaduct Rail, which is the elevated version of standard heavy rail.
+      The stations all include bus and optional subway service.
+      -Modern Viaduct Rail Station
+        A modern Viaduct Rail station by Brenda Xne with bus and subway service, as well as car parking.
+        It has a translucent roof (made by Swamper77).
+        Drag the Rail tool through the station to activate it.
+      -Overhanging Viaduct Rail Station
+        A modern overhanging Viaduct Rail station by Xyloxadoria that includes bus and subway service.
+        Be sure to plop the Viaduct Rail Other Side lot in the far column and then click on both columns with the rail tool.
+      -Diagonal Viaduct Rail Station
+        A modern diagonal Viaduct Rail station by Xyloxadoria that includes bus and optional subway service.
+        Be sure to click the central rail pieces in the station with the rail tool after plopping the station.
+      -Victorian Viaduct Rail Station (Orthogonal)
+        Victorian Viaduct Rail station by Morifari and ArkenbergeJoe, with a one-tile overhang designed to go over a road.
+        Bus and optional subway service are included.
+        Click on the two center lot pieces of the station to activate it.
+      -Victorian Viaduct Rail Station (Diagonal)
+        A diagonal version of the Victorian Viaduct Rail station by Morifari and ArkenbergeJoe.
+        Bus and optional subway service are included.
+        Click on the two center lot pieces of the station to activate it.
+      -Morifari Straight Viaduct Rail Station
+        A modern overhanging Viaduct Rail station by Morifari.
+        Bus and optional subway service are included.
+        Drag the Monorail tool through the station to activate it.
+      -Morifari Diagonal Viaduct Rail Station
+        A modern diagonal Viaduct Rail station by Morifari.
+        Bus and optional subway service are included.
+        Drag the Rail tool through the station to activate it.
