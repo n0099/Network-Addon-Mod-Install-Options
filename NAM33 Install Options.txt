@@ -394,7 +394,8 @@
       A modern overhanging HSR station by Xyloxadoria that includes bus and subway service.
       Be sure to plop the HSR Other Side lot in the far column and then drag the monorail tool through the station, starting from an HSR tile.
     -Morifari Straight HSR Station
-      A modern overhanging HSR station by Morifari.  Bus and optional subway service are included.
+      A modern overhanging HSR station by Morifari.
+      Bus and optional subway service are included.
       Starting from an HSR tile, drag the Monorail tool through the station to activate it.
     -HSRP Transit Hub
       A large, 6x8 High Speed Rail Project Transit Hub by 3ddz, refurbished by Andreas.
@@ -421,7 +422,8 @@
       Drag the Monorail tool through the station to activate it.
     -Morifari Diagonal Monorail / Bullet Train / HSR Station
       A modern diagonal Monorail, Bullet Train, or HSR station by Morifari.
-      Bus and optional subway service are included.  Drag the Monorail tool through the station to activate it.
+      Bus and optional subway service are included.
+      Drag the Monorail tool through the station to activate it.
       Start from an HSR tile if you want an HSR station.
   +Multi-Purpose Stations
     -BriPizza 15m Multi-Purpose Station
@@ -491,3 +493,347 @@
         A modern diagonal Viaduct Rail station by Morifari.
         Bus and optional subway service are included.
         Drag the Rail tool through the station to activate it.
+
++Additional Features and Customizations
+  Contains various features and customizations that do not fit into any of the previous categories.
+  +Additional Bridges
+    Use this option for installing additional bridges.
+    The original full documentation for these bridges can be found in the folder 'NAM Auxiliary Files\Documentation\Additional Bridges'.
+    -Basic Additional Bridges
+      A basic pack of additional bridges for the game.
+    +Avenue Bridges
+      Custom bridges for avenues.
+      -JENX PARIS Pont Alexandre III
+        Pont Alexandre III is an arch bridge that spans the Seine, connecting the Champs-Elysees quarter and the Invalides and Eiffel Tower quarter; it is widely regarded as the most ornate, extravagant bridge in Paris.
+      -Millau Viaduct
+        The Millau Viaduct is a large cable-stayed road-bridge that spans the valley of the River Tarn near Millau in southern France.
+        It is the tallest vehicular bridge in the world, with one pier's summit at 343 meters.
+    +El Rail Bridges
+      -Concrete Box Girder El Rail Bridge
+        A concrete box girder bridge based off the Edmonton Light Rail Transit system in Canada. (Bridge by choco.)
+      -Steel Bailey Under Truss El Rail Bridge
+        A steel bailey under truss bridge. (Bridge by choco.)
+      -Cable Stayed El Rail Bridge
+        A cable stayed bridge modeled after the Vancouver Skybridge in Canada. (Bridge by choco.)
+    +Elevated Highway Bridges
+      -Jeronij TsingMa Single Deck Bridge
+        The Tsing Ma bridge, found in Hong Kong.
+        Due to actual technical limitations, the included bridge works as an elevated highway bridge and the second deck's railroad is not functional.
+    +Ground Highway Bridges
+      -Akashi Kaikyo Bridge
+        The Akashi-Kaikyo Bridge, also known as Pearl Bridge, is a suspension bridge in Japan that crosses the Akashi Strait.
+        It is the longest suspension bridge in the world to date. (Bridge by Fukuda.)
+    +High Speed Rail Bridges
+      -Basic HSR Bridge
+        A basic bridge for High Speed Rail. (Bridge by choco.)
+      -Basic GHSR Bridge
+        A basic bridge for Ground High Speed Rail. (Bridge by choco.)
+      -Concrete Box-Girder GHSR Bridge
+        A concrete box-girder GHSR bridge used along the InterCityExpress lines in Germany. (Bridge by choco.)
+      -Cable Stayed HSR Bridge
+        A cable stayed HSR bridge, modelled slightly after the Cooper River Bridge in South Carolina. (Bridge by choco.)
+      -Cable Stayed GHSR Bridge
+        A cable stayed GHSR bridge, slightly modeled after the Tsurumi Tsubasa Bridge in Japan. (Bridge by choco.)
+      -HSR Concrete Pier Bridge
+        A simple HSR concrete pier bridge adapted from pier's used in the Pulaski Skyway in New Jersey. (Bridge by choco.)
+      -GHSR Concrete Pier Bridge
+        A simple GHSR concrete pier bridge adapted from pier's used in the Charilaos Trikoupis bridge in Greece. (Bridge by choco.)
+      -HSR Suspension Bridge
+        A HSR suspension bridge, slightly modeled after the Kurushima-Kaikyo Bridge in Japan. (Bridge by choco.)
+      -Bailey Truss HSR Bridge
+        A bailey truss HSR bridge, inspired by various pics around the Net. (Bridge by choco.)
+      -Warren Thru-Truss GHSR Bridge
+        A basic warren thru-truss GHSR bridge, found along the Shinkansen line from Tokyo to Fukuoka, Japan. (Bridge by choco.)
+      -Fences for HSR and GHSR Bridges
+        Optional fence props for th HSR and GHSR bridges.
+    +Monorail Bridges
+      Custom bridges for Monorail Networks.
+      -AIT Concrete Pier Monorail Bridge
+        A simple concrete pier monorail bridge adapted from a picture on the Net. (Bridge by choco.)
+      -Cable-Stayed Monorail Bridge
+        This bridge is modeled after the Rama VIII Bridge in Bangkok, Thailand, a cable-stayed bridge with a span of 2.45 km that crosses the Chao Phraya River. (Bridge by choco.)
+      -Monorail Suspension Bridge
+        A suspension bridge for the monorail network that should help with any long spans. (Bridge by choco.)
+      -Concrete Y-Pier Monorail Bridge
+        The Y Pier bridge was inspired by Phoenix Light Rail System. (Bridge by choco.)
+    +Railway Bridges
+      Custom Railway Bridges.
+      -Göltzsch Viaduct
+        The Göltzsch Viaduct is a railway bridge in Germany.
+        It is the largest brick-built bridge in the world containing more than 26 million custom sized bricks. (Bridge by choco.)
+      -JRJ Warzone Bridge
+        A concrete railroad bridge modelled and modded by jeronij.
+      -Garabit Viaduct
+        A modern rail bridge with an appearance similar to the Garabit Viaduct rail bridge in Southern France.
+        The Garabit Viaduct is a railroad arch bridge spanning the Truyère river near Ruynes-en-Margeride.
+      -Howe Truss Rail Bridge (Standard)
+        This classic wooden truss bridge was inspired by the style of bridge dating back to the 1800s. (Bridge by Threestooges.)
+      -Howe Truss Rail Bridge (Single Track)
+        This classic wooden truss bridge was inspired by the style of bridge dating back to the 1800s. (Bridge by Threestooges.)
+      -Metal Arch Rail Bridge
+        A common Metal Arch rail bridge,such as can be found throughout the world. (Bridge by Fukuda.)
+      -Metal Pylon Bridge
+        A Metal Pylon rail bridge, which looks excellent in mountainous areas with deep gorges.
+        (Bridge by Fukuda.) (Not to be confused with the Monty Python rail bridge.)
+      -Modern Rail Bridge
+        A modern rail bridge with an appearance similar to Santiago Calatrava's futuristic bridges. (Bridge by jeronij.)
+      -Plate Girder Single Track Rail Bridge
+        Plate Girders are common, cost effective solutions for spans.
+        Not recommended visually for deep spans, but it will work in any height you attempt to use it.
+        It's a sturdy design that should work well in industrial settings.
+      +Wooden Trestle Single Track Rail Bridge
+        This classic design was derived from the numerous bridges that span smaller gaps and valleys in the early days of US westward expansion.
+        Commonly seen in western movies, this bridge is ideally designed for dry crossings.
+        -Bridge Structure
+          This is the main bridge structure.
+          This option must be checked if you want to use this bridge.
+        -Stronger Wake Effect
+          Creates a wake effect around all pillars of the bridge.
+        -Weaker Wake Effect
+          Creates a lesser wake effect around the pillars of the bridge.
+      -Royal Albert Single Track Rail Bridge
+        The Royal Albert Bridge is a railway bridge that spans the Rive Tamar in the United Kingdom between Plymouth, on the Devon bank, and Saltash, on the Cornish bank. (Bridge by choco.)
+      -PvM JRJ Green Garabit Rail Bridge
+        A rural rail bridge modelled by Paulvmonfort, re-textured with full permission and modded by jeronij.
+    +Real Highway Bridges
+      This option contains all the bridges for the Real Highway network.
+      That network must be enabled in order to be able to select any of these bridges.
+      -RHW-2 Concrete Girder Bridge
+      -RHW-2 Small Steel Arch Bridge
+      -RHW-4 Large Steel Arch Bridge
+      -RHW-4 Steel Girder Bridge
+      -RHW-4 Steel Girder Bridge Dual
+      -RHW-4 Steel Girder Bridge Dual 2
+      -RHW-4 Suspension Bridge Compact
+      -RHW-6S Cable-Stayed Bridge Compact
+      -RHW-6S Concrete Arch Bridge
+      -RHW-6S Concrete Arch Bridge Dual
+      -RHW-6S Steel Arch Bridge Compact
+      -RHW-8S Undertruss Bridge
+      -RHW-10S Cable Stayed Bridge
+      -RHW-10S Large Concrete Arch
+      -RHW-MIS Bridges
+      -DDRHW-4 Basic Bridge
+    +Road Bridges
+      Custom Road Bridges.
+      -Kwanyoni Bridge
+        The Kwanyoni Bridge bridge is modeled after a typical South African bridge.
+        This is a LOW LEVEL bridge, not suitable for heights over 30 metres or so, and it is should be placed to wedge into a canyon. (Bridge by Colyn.)
+      -DT Road Bridge
+        A modern road bridge, designed after a bridge near Dusktrooper's hometown, Houston, Texas, USA. (Bridge by Dusktrooper.)
+      -JENX Tower Bridge
+        Tower Bridge is a combined bascule and suspension bridge in London, England, over the River Thames.
+        It is close to the Tower of London, which gives it its name. (Bridge by xannepan.)
+      -JENX PARIS Pont Royal
+        The Pont Royal is a bridge crossing the river Seine in Paris.
+        It is the third oldest bridge in Paris, after the Pont Neuf and the Pont Marie. (Bridge by xannepan.)
+      -JENX PARIS Pont Saint Michel
+        Pont Saint-Michel is a bridge linking the Place Saint-Michel on the left bank of the river Seine to the Île de la Cité It was named after the nearby chapel of Saint-Michel. (Bridge by xannepan.)
+      -JENX PARIS Pont Neuf (Road)
+        The Pont Neuf (bridge nine) is, despite its name, the oldest standing bridge across the river Seine in Paris, France.
+        Its name was given to distinguish it from older bridges that were lined on both sides with houses. (Bridge by xannepan.)
+      -Krummbach Bridge
+        The Krummbach bridge is found in Wallis, Switzerland.
+        It carries the Simplon pass road.
+        The bridge was built in 1978 and has a total lenght of 621 meters, with the main arch being 124 meters long. (Bridge by jeronij.)
+      -Old Road Bridge
+        An 18th Century style road bridge, specifically designed for old european urban centers. (Bridge by jeronij.)
+      -Pont Sant Angelo
+        Ponte Sant'Angelo, once the Aelian Bridge or Pons Aelius, meaning the Bridge of Hadrian, is a Roman bridge in Rome, Italy, completed in 134 AD by Roman Emperor Hadrian, to span the Tiber. (Bridge by debussyman.)
+      -Wooden Covered Road Bridge
+        This is a covered bridge, as is common in the New England states in the north-eastern part of the USA.
+        The roof is intended to protect the wooden bridge from moisture, in order to extend its lifetime. (Bridge by Threestooges.)
+    -Rural Street and Rail Bridge
+      Here are two versions of an old Roman aqueduct-style bridge.
+      There's one bridge for streets and one for railroads.
+      The models are based on an existing bridge in jeronij's hometown of Soller, Mallorca, Balearic Islands, Spain.
+    -Street Addon Mod (SAM) Bridges
+      This option contains all the bridges for the Street Addon Mod network.
+      That network must be enabled in order to be able to select any of these bridges.
+    +Street Bridges
+      Custom Street Bridges.
+      -Concrete Street Bridge
+        A concrete box girder bridge, modelled slightly after the Smartroad Bridge over Wilson's Creek.
+        It is the tallest bridge in Virginia at 175 feet (53 m) tall. (Bridge by choco.)
+      -Covered Street Bridge
+        A street version of the Maxis covered road bridge. (Bridge by choco.)
+      -JENX PARIS Pont Neuf (Street)
+        The Pont Neuf (bridge nine) is, despite its name, the oldest standing bridge across the river Seine in Paris, France.
+        Its name was given to distinguish it from older bridges that were lined on both sides with houses. (Bridge by xannepan.)
+      -Steel Girder Street Bridge
+        A simple steel girder street bridge commonly found crossing small creeks and rivers around Western Pennsylvania.
+        It utilizes a cost effective steel beam/concrete deck design well suited for small crossings in hilly terrains.
+    +Tram in Road Bridges
+      This option contains all the bridges for the Tram in Road network.
+      That network must be enabled in order to be able to select any of these bridges.
+      -Pont Notre Dame
+        The Pont Notre-Dame is a bridge that crosses the Seine in Paris, France linking the quai de Gesvres on the Rive Droite with the quai de la Corse on the Île de la Cité (Bridge by xannepan.)
+  -Bridge Height MOD
+    This mod reduces the clearance needed by all Maxis bridges to zero.
+    As a result, a wider variety of bridges can be built in a wider variety of locations.
+  +Custom Menu Icon Layouts
+    Choose options for reorderning menu icons.
+    -Custom Highway Menu
+      This option will group some of the Highway menu buttons.
+    -Custom Rail Menu
+      This option will reorder some of the Rail menu buttons.
+    -Custom Misc. Transportation Menu
+      This option will reorder some of the Misc. Transportation menu buttons.
+  -Enable Decoupling of Networks and Rules
+    Allows you to select networks and rules independently for those networks that have rules associated with them.
+    One click on a network selects both the network and its rules; a second click selects only the network, boldfacing it.
+  -Extended Station Queries
+    Includes additional information in the station queries, including number of tiles of this station type in the city, the average usage of this type of station, the total number of tiles in this station's network, and their utilization.
+  -High Speed Rail Textures by vershner
+    An alternate darker texture mod for the High Speed Rail networks, designed by vershner.
+  +Hole Diggers and Ground Raisers
+    These lots allow the current tile to be raised or lowered by the specified amount.
+    They are typically used every other tile for the distance needed.
+    -Standard Hole Diggers and Ground Raisers
+      This option provides a standard set of lots that, when demolished, raise or lower the tile below them the specified number of meters.
+      They may be demolished by drawing a road over them.
+    -Auto-Destruct Hole Diggers and Ground Raisers
+      These lots raise or lower the tile beneath them, then immediately auto-destruct.
+      Unlike the Standard version of these lots, the auto-destruct lots may destroy buildings or networks in the tiles immediately surrounding them.
+  -NAM Standard Station Features
+    Adds bus and/or subway service to the original stations when appropriate.
+    See the main documentation for further details.
+  -Maxis Highway Interchange & Ramp Additions
+    Additional interchanges and ramps for the Maxis highways.
+    Not compatible with the Maxis Highway Override.
+  +One-Way Arrow Mods
+    Various options for removing or reducing One-Way Road arrows.
+    -Eliminate Most One-Way Arrows
+      This option will remove most of the One-Way Road arrows.
+    -Reduce One-Way Arrows by Half
+      This option will reduce the number of arrows in the OWR networks.
+    -Eliminate One-Way Arrows at Roundabouts
+      This option will remove the arrows from the One-Way Road roundabout.
+  +Rail Texture Style
+    Choose options for Rail Texture styles.
+    Fixes the color shift between the Maxis textures and custom Rail textures.
+    This option is not used when the RealRailway (RRW) is installed.
+    -Darker textures by SFBT
+      This option contains darker Rail textures for zoom 1 to 4 in order to fix the color shift between Maxis and custom textures.
+    -Alternative textures by dedgren
+      This option contains a completely new Rail texture style that looks closer to reality.
+    -Maxis default (not recommended)
+      This option keeps the default Maxis Rail textures (not recommended).
+  +Rail Viaduct Style
+    Choose options for Elevated (Heavy) Rail Viaduct styles.
+    -Grey Rocks (default)
+      This option will change the Rail Viaduct texture to a grey rock color.
+    -Brown Bricks
+      This option will change the Rail Viaduct texture to a brown brick color.
+    -Red Bricks
+      This option will change the Rail Viaduct texture to a red brick color.
+  +Real Highway Options
+    Additional options for the RHW.
+    -Real Highway Regional Transport View
+      Installs RHW-compatible Region Transport View.
+      Not compatible with other Region Transport View Mods.
+      PLEASE READ DOCUMENTATION.
+    -Single Median Barriers for Compact RHW Networks
+      Installs single median barriers between the roadways of compact RHW networks (currently RHW-6C and RHW-8C), instead of the old double barriers.
+    -Legacy Deprecated Height Transitions
+      Installs button to access deprecated RHW height transitions, now made obsolete by the FlexHeight system.
+  +Road Textures and Markings
+    The options here allow you to customize various road textures and markings.
+    +Main Road Texture Style
+      This option allows you to choose one of the main American-style or European-style road textures.
+      -Maxis Standard Road Textures (American style)
+        This option selects the standard, unmodified Maxis road textures that come with the game.
+      -Retextured Standard Road Textures (American style)
+        This option replaces most of the default Maxis intersection textures with smooth corners, along with correct geometry for orthogonal to diagonal draggable curve, improvements to many road networks, and much more.
+      -Standard Euro Road Textures
+        This is the Euro version of the Retextured Standard Road Textures.
+      -Australian Euro Road Textures
+        This is the Euro version of the Retextured Standard Road Textures, with special NWM customization for Australian roads.
+      -Hamburg Euro Road Textures
+        This is the Euro version of the Retextured Standard Road Textures, with special NWM customization for Hamburg-style roads.
+      -Euro Road Textures - Single Solid Line
+        This is the Euro version of the Retextured Standard Road Textures, with a single solid line used as a divider for the NWM networks.
+    +Options for American-Style Road Textures
+      The following options are available for any of the four main American textures mods.
+      -New York City-style Large Intersections
+        Uses New York City-style crosshatching for large intersections.
+        This affects the NWM networks OWR-3, OWR-4, OWR-5, NRD-4, RD-6, AVE-6, and TLA-7, as well as certain TuLEPs.
+    +Options for European-Style Road Textures
+      The following options are available for any of the four main European textures mods.
+      +Alternative Euro TuLEP Textures
+        The following options let you select different textures for TuLEPs (Turning Lane Extension Project).
+        -Dexter's UK Euro TuLEP Textures
+          This option allows you to select Dexter's UK Euro TuLEP (Turning Lane Extension Project) style.
+        -Mandelsoft's Euro TuLEP Textures
+          This option allows you to select Mandelsoft's Euro TuLEP (Turning Lane Extension Project) style.
+        -Riiga's Euro TuLEP Textures (Dashed)
+          This option allows you to select Riiga's Euro TuLEP (Turning Lane Extension Project) style.
+        -UK Old Euro TuLEP Textures
+          This option allows you to select the UK Old Euro TuLEP (Turning Lane Extension Project) style.
+      -Additional UK Texture Replacements
+        Additional UK texture replacements
+    +Alternate Arrow Textures
+      This option provides a number of alternate arrow styles wherever arrows are used.
+      -Arrow Textures for Australia
+        This option replaces the standard arrow textures with ones similar to those used in Australia.
+      -Arrow Textures for Belgium
+        This option replaces the standard arrow textures with ones similar to those used in Belgium.
+      -Arrow Textures for Schellingen
+        This option replaces the standard arrow textures with ones similar to those used in the fictional country of Schellingen.
+      -Arrow Textures for Switzerland
+        This option replaces the standard arrow textures with ones similar to those used in Switzerland.
+      -Arrow Textures for Germany
+        This option replaces the standard arrow textures with ones similar to those used in Germany.
+      -Arrow Textures for Denmark
+        This option replaces the standard arrow textures with ones similar to those used in Denmark.
+      -Arrow Textures for France
+        This option replaces the standard arrow textures with ones similar to those used in France.
+      -Arrow Textures for Imaginia
+        This option replaces the standard arrow textures with ones similar to those used in the fictional country of Imaginia.
+      -Arrow Textures for the Netherlands
+        This option replaces the standard arrow textures with ones similar to those used in the Netherlands.
+      -Arrow Textures for Ontario
+        This option replaces the standard arrow textures with ones similar to those used in Ontario, Canada.
+      -Arrow Textures for Burgtheland
+        This option replaces the standard arrow textures with ones similar to those used in the fictional country of Burgtheland.
+      -Arrow Textures for Sweden
+        This option replaces the standard arrow textures with ones similar to those used in Sweden.
+      -Arrow Textures for the United States
+        This option replaces the standard arrow textures with ones similar to those used in the United States.
+    -Cul-de-Sacs
+      Inserts cul-de-sacs at the ends of roads.
+      For American-style textures, inserts cul-de-sacs at the ends of streets as well.
+    -Asphalt Textures for Maxis Highways
+      This option replaces all the white concrete textures of the Maxis highways with a black asphalt texture.
+      The color of the lane markers is changed to white.
+      Other than that, the Maxis highways function as usual with this option.
+  +Roundabouts and Other Interchanges
+    Choose options for creating Roundabouts.
+    -Street Roundabouts
+      With this option you can create Street roundabouts.
+    -Road Roundabouts
+      With this option you can create Road roundabouts.
+    -Oneway Roundabouts
+      With this option you can create One-Way Road roundabouts.
+    -Avenue Roundabouts and Interchanges
+      With this option you can create Avenue roundabouts, interchanges and wide curves.
+    -Turbo Roundabouts
+      With this option you can create Turbo roundabouts.
+      These are special multi-lane roundabouts that are especially helpful in facilitating traffic flow.
+  +Turning Lanes
+    Choose options for creating Avenue or Road Turning Lanes.
+    -Road Turning Lanes
+      With this option, Road intersections can have turning lanes.
+      To activate these turning lanes, plop a single one-way road piece on the intersection.
+    -Avenue Turning Lanes
+      With this option, Avenue intersections will have turning lanes.
+    -Turning Lanes Extension Plugin (Basic)
+      With this option, you can build additional turning lanes.
+  +Wide Radius Curves
+    Choose this option for building Wide Radius Curves for road and/or rail networks.
+    -Wide Curves for Streets, Roads, and Avenues
+      With this option you can build wide radius and fractionally angled Roads and Streets.
+    -Wide Curves for Rails
+      With this option you can build wide radius and fractionally angled Railway.
+    -Wide Curves for Monorail and Bullet Train
+      With this option you can build wide curves for the Monorail and Bullet Train.
