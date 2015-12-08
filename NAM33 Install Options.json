@@ -1,0 +1,74 @@
+{
+  "points": [
+    {
+      "name": "Main NAM Files",
+      "description": "The Network Addon Mod will introduce numerous network and traffic enhancements to the game."
+    },
+    {
+      "name": "Documentation",
+      "description": "This will install the documentation for the Network Addon Mod."
+    },
+    {
+      "name": "Run Cleanitol and the Station Updater",
+      "description": "Run the Cleanitol program, which removes all plugins incompatible with the NAM from your system.\nThis is automatically done at a NAM upgrade, and usually doesn't have to be done otherwise."
+    },
+    {
+      "name": "Traffic Driving Side (Usually shouldn't be changed)",
+      "description": "The traffic driving side is usually set automatically, but can be changed here if necessary.",
+      "child": [
+        {
+          "name": "Game traffic drives on right side of road",
+          "description": "Choose this option only if your traffic drives on the right side of the road in the game."
+        },
+        {
+          "name": "Game traffic drives on left side of road",
+          "description": "Choose this option only if your traffic drives on the left side of the road in the game."
+        }
+      ]
+    },
+    {
+      "name": "Traffic Simulator and Related Options",
+      "description": "Includes options for the NAM Traffic Simulator, the Automata Controller, and the new Zones Data View.",
+      "child": [
+        {
+          "name": "Select Traffic Simulator and Capacity Levels",
+          "description": "Choose one of the Traffic Simulators here.\nCustom Traffic Simulators can be created with the Traffic Simulator Configuration Tool, which is optionally installed at the end of the main NAM installation.",
+          "child": [
+            {
+              "name": "NAM Traffic Simulator Classic",
+              "description": "Uses the standard Maxis capacities; useful for rural areas and towns."
+            },
+            {
+              "name": "NAM Traffic Simulator Low",
+              "description": "Increases capacities a little; useful for small to medium-sized cities."
+            },
+            {
+              "name": "NAM Traffic Simulator Medium",
+              "description": "Increases capacities a bit more; useful for medium to large-sized cities."
+            },
+            {
+              "name": "NAM Traffic Simulator High",
+              "description": "Increases capacities considerably; useful for large cities, or very large cities with little mass transit."
+            },
+            {
+              "name": "NAM Traffic Simulator Ultra",
+              "description": "Increases capacities a lot; useful for very large cities, especially with much regional traffic."
+            },
+            {
+              "name": "Keep my previous traffic simulator",
+              "description": "Retains the traffic simulator that is currently installed."
+            },
+            {
+              "name": "Build a custom traffic simulator",
+              "description": "Allows you to build a custom traffic simulator at the end of this installation."
+            }
+          ]
+        },
+        {
+          "name": "New Zones Data View",
+          "description": "Choose this option to add all networks and props to the standard Zones Data View.\nThe exact composition of this view can be refined by using the Traffic Simulator Configuration Tool."
+        }
+      ]
+    }
+  ]
+}
