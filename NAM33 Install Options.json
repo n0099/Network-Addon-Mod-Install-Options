@@ -1,3 +1,10 @@
+/*
+ * Formatting Refrences:
+ * name: XXX  //The name of the element
+ * description: XXX[\n]XXX //The description of the element
+ * child: [XXX,XXX] //The child of the element
+ * PLEASE CHECK THE JSON FORMAT BEFORE SAVING THIS FILE!
+ */
 {
   "points": [
     {
@@ -67,6 +74,130 @@
         {
           "name": "New Zones Data View",
           "description": "Choose this option to add all networks and props to the standard Zones Data View.\nThe exact composition of this view can be refined by using the Traffic Simulator Configuration Tool."
+        },
+        {
+          "name": "Autometa Controller Type",
+          "description": "Choose one of the Automata Controllers here.\nCustom Automata Controllers can be created with external tools, such as Ilive's Reader.",
+          "chind": [
+            {
+              "name": "Persitent Autometa",
+              "description": "This option makes the display of all automata last longer.\nIt reduces the game speed slightly."
+            },
+            {
+              "name": "Standard Automata Numbers",
+              "description": "At a minimum, this option is required as it adds additional functionality."
+            },
+            {
+              "name": "Standard Automata Numbers 24h",
+              "description": "This option increases the overall display of automata so that they appear for most of the 24 hour Sim day.\nIt reduces the game speed slightly."
+            },
+            {
+              "name": "Radical Automata Numbers",
+              "description": "This option signifcantly adjusts the overall display of Automata so that they appear more.\nIt reduces the game speed slightly."
+            },
+            {
+              "name": "Radical Automata Numbers 24h",
+              "description": "This option signifcantly adjusts the overall display of Automata so that they appear more for most of the 24 hour Sim day.\nIt reduces the game speed moderately."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "NAM Networks and Network Expansion",
+      "description": "Contains all the new NAM networks, as well as extensions to the existing Maxis networks.",
+      "child": [
+        {
+          "name": "Bullet Train Mod (BTM)",
+          "description": "Installs the Bullet Train Mod by Moonlight.\nThis mod completely replaces the standard monorail, and has many additional features.\nIt is based on the Japanese Shinkansen high-speed rail line.",
+          "child": [
+            {
+              "name": "Main Bullet Train Mod",
+              "description": "Installs the core files necessary for using the Bullet Train Mod."
+            },
+            {
+              "name": "Ground Texture",
+              "description": "Installs a special ground texture resembling a shadow underneath the Bullet Train Mod tracks."
+            },
+            {
+              "name": "Alternate Concrete Texture",
+              "description": "Replaces the Primary Concrete Texture with an almost-identical alternate one."
+            },
+            {
+              "name": "Fence Prop",
+              "description": "Adds a fence at ground level all around the route of the Bullet Train Mod."
+            },
+            {
+              "name": "N700 Series Shinkansen Train",
+              "description": "Replaces the standard monorail train with a detailed replica of the N700 Series Shinkansen train."
+            }
+          ]
+        },
+        {
+          "name": "Canal Addon Mod (CAN-AM)",
+          "description": "Allows you to choose either the SimGoober or Callagrafx version of the Canal Addon Mod.",
+          "child": [
+            {
+              "name": "SimGoober's Canals",
+              "description": "With this option you can build functional canals for SimGoober's canal system."
+            },
+            {
+              "name": "Callagrafx' Canals",
+              "description": "With this option you can build functional canals for Callagrafx' canal system."
+            }
+          ]
+        },
+        {
+          "name": "Diagonal Streets",
+          "description": "Use this option for installing Diagonal Streets."
+        },
+        {
+          "name": "Double-Height Monorail / Bullet Train Mod",
+          "description": "Use this option for creating double-height Monorail or Bullet Train (Shinkansen) networks."
+        },
+        {
+          "name": "El Rail",
+          "description": "Contains different variations and extensions of the El Rail network.",
+          "child": [
+            {
+              "name": "El Rail Alternate Implementation",
+              "description": "This is Moononght's implementation of the El Rail network.\nAlthough it is based on a Japanese El Rail network, it has more complex pieces than the standard El Rail, and fits in almost anywhere.",
+              "child": [
+                {
+                  "name": "Core El Rail Network",
+                  "description": "Installs the core files necessary for using Moonlinght's El Rail Alternate Implementation."
+                },
+                {
+                  "name": "El Rail Catenaries",
+                  "description": "Adds catenary props to the El Rail Alternate Implementation."
+                },
+                {
+                  "name": "El Rail Fence Props",
+                  "description": "Adds a fence at ground level all around the route of Moonlinght's El Rail Alternate Implementation."
+                },
+                {
+                  "name": "El Rail Ground Texture",
+                  "description": "Installs a special ground texture resembling a shadow underneath the El Rail tracks."
+                },
+                {
+                  "name": "El Rail Cool Color Concrete Texture",
+                  "description": "Replaces the standard Warm Color Concrete Texture with a slightly cooler-colored one."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "El Rail over Avenue Networks",
+          "description": "This option allows you to create El Rail over Avenue and El Rail over RD-4 networks."
+        },
+        {
+          "name": "El Rail over Road Networks",
+          "description": "This option allows you to create El Rail over Road and El Rail over Street networks."
+        },
+        {
+          "name": "Double-Height Elevated Rail",
+          "description": "This option contains puzzle pieces for creating double-height sections of your Elevated Rail networks."
         }
       ]
     }
