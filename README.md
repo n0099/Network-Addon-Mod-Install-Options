@@ -1,4 +1,4 @@
-##### JSON转换进度：*进行中*
+##### JSON转换进度：正在转换
 ---------------------------
 - [X] `Main NAM Files`……*已转换*（By **LasmGratel**）
 - [X] `Documentation`……*已转换*（By **LasmGratel**）
@@ -29,7 +29,7 @@
 - [X] `Stations, Ports, and Network Transitions`……*已转换*（By **LasmGratel**）
   - [X] `Upgraded Maxis Transit Lots`……*已转换*（By **LasmGratel**）
   - [X] `Maxis Airports`……*已转换*（By **LasmGratel**）
-  - [ ] `Bus Rapid Transit Stations`……*转换中 30%*
+  - [ ] `Bus Rapid Transit Stations`……**转换中 30%**（By **LasmGratel**）
   - [ ] `El Rail Stations`……*未转换*
   - [ ] `GLR and Tram Stations`……*未转换*
   - [ ] `High Speed Rail Stations`……*未转换*
