@@ -382,13 +382,268 @@
                   "name": "RHW L0 RHW-8C"
                 }
               ]
+            },
+            {
+              "name": "RHW L1 Networks",
+              "child": [
+                {
+                  "name": "RHW L1 RHW-2"
+                },
+                {
+                  "name": "RHW L1 RHW-3"
+                },
+                {
+                  "name": "RHW L1 MIS"
+                },
+                {
+                  "name": "RHW L1 RHW-4"
+                },
+                {
+                  "name": "RHW L1 RHW-6S"
+                },
+                {
+                  "name": "RHW L1 RHW-8S"
+                },
+                {
+                  "name": "RHW L1 RHW-10S"
+                },
+                {
+                  "name": "RHW L1 RHW-6C"
+                },
+                {
+                  "name": "RHW L1 RHW-8C"
+                }
+              ]
+            },
+            {
+              "name": "RHW L2 Networks",
+              "child": [
+                {
+                  "name": "RHW L2 RHW-2"
+                },
+                {
+                  "name": "RHW L2 RHW-3"
+                },
+                {
+                  "name": "RHW L2 MIS"
+                },
+                {
+                  "name": "RHW L2 RHW-4"
+                },
+                {
+                  "name": "RHW L2 RHW-6S"
+                },
+                {
+                  "name": "RHW L2 RHW-8S"
+                },
+                {
+                  "name": "RHW L2 RHW-10S"
+                },
+                {
+                  "name": "RHW L2 RHW-6C"
+                },
+                {
+                  "name": "RHW L2 RHW-8C"
+                }
+              ]
+            },
+            {
+              "name": "RHW L3 Networks",
+              "child": [
+                {
+                  "name": "RHW L3 MIS"
+                },
+                {
+                  "name": "RHW L3 RHW-4"
+                },
+                {
+                  "name": "RHW L3 RHW-6S"
+                }
+              ]
+            },
+            {
+              "name": "RHW L4 Networks",
+              "child": [
+                {
+                  "name": "RHW L4 MIS"
+                },
+                {
+                  "name": "RHW L4 RHW-4"
+                },
+                {
+                  "name": "RHW L4 RHW-6S"
+                }
+              ]
+            },
+            {
+              "name": "DDRHW Networks",
+              "child": [
+                {
+                  "name": "RHW DDRHW-4"
+                }
+              ]
+            },
+            {
+              "name": "FARHW"
+            }
+          ]
+        },
+        {
+          "name": "Rural Roads Plugin",
+          "description": "This installs a series of cosmetic puzzle pieces designed to make roads look more rural."
+        },
+        {
+          "name": "Street Addon Mod (SAM)",
+          "description": "Choose options for Street Addon Mod functionality.",
+          "child": [
+            {
+              "name": "SAM Set 1 - Parking Lots",
+              "description": "This installs the SAM Parking Lot Textures."
+            },
+            {
+              "name": "SAM Set 2 - Herringbone Brick Streets",
+              "description": "This installs the Herringbone Brick Street Textures."
+            },
+            {
+              "name": "SAM Set 3 - PEG Dirt Streets",
+              "description": "This installs the PEG Dirt Street Textures."
+            },
+            {
+              "name": "SAM Set 4 - PEG Gravel Streets",
+              "description": "This installs the PEG Gravel Street Textures."
+            },
+            {
+              "name": "SAM Set 5 - Trolca Dirt Streets",
+              "description": "This installs the Trolca Dirt Street Textures."
+            },
+            {
+              "name": "SAM Set 6 - Klinker Euro Streets",
+              "description": "This installs the Klinker Euro Street Textures."
+            },
+            {
+              "name": "SAM Set 7 - Asphalt Streets",
+              "description": "This installs the Asphalt Street Textures."
+            },
+            {
+              "name": "SAM Set 8 - Cobblestone Streets",
+              "description": "This installs the Cobblestone Street Textures."
+            },
+            {
+              "name": "SAM Set 9 - Brick Streets",
+              "description": "This installs the Brick Street Textures."
+            },
+            {
+              "name": "SAM Set 10 - Japanese Streets",
+              "description": "This installs the Japanese Street Textures created by Moonlinght."
             }
           ]
         }
       ]
     },
     {
-
+      "name": "Stations, Ports, and Network Transitions",
+      "description": "Upgrades the standard Maxis transit lots, and includes many more stations and network transitions that are useful with the NAM.",
+      "child": [
+        {
+          "name": "Upgraded Maxis Transit Lots",
+          "description": "Upgrades the capacities and transit switch entry costs (TSECs) of the standard Maxis transit lots to conform with the NAM standard."
+        },
+        {
+          "name": "Maxis Airports",
+          "description": "Set the commercial and freight capacity of the Maxis airports, along with the demand for jobs for them.\nSwitching among these options affects airports that are already placed in the game.\n(Airports are operated by Nocturnal Aviation.)",
+          "child": [
+            {
+              "name": "Low Capacity Airports (Maxis)",
+              "description": "Uses the standard capacity Maxis airports in the game."
+            },
+            {
+              "name": "Medium Capacity Airports (4x)",
+              "description": "Makes the Maxis airports handle four times the commercial and freight capacity of the standard airports, and creates demand for four times the jobs for them."
+            },
+            {
+              "name": "High Capacity Airports (8x)",
+              "description": "Makes the Maxis airports handle eight times the commercial and freight capacity of the standard airports, and creates demand for eight times the jobs for them."
+            }
+          ]
+        },
+        {
+          "name": "Bus Rapid Transit Stations",
+          "child": [
+            {
+              "name": "BriPizza Elevated Roadway Station",
+              "description": "A bus and subway station for elevated toadways, based on a station by E-N (BriPizza).\nFor elevated roads, one station on one side will serve both directions.\nFor elevated avenues, a station on each side is needed for full service."
+            },
+            {
+              "name": "Overhanging Bus Rapid Transit Station",
+              "description": "A modern bus rapid transit station modeled by Xyloxadoria that includes optional subway service.\nBe sure to plop the Bus Rapid Transit Other Side lot in the far column."
+            },
+            {
+              "name": "Bus Rapid Transit Filter Lots",
+              "description": "These single-tile lots appear as appropriate levels of the RHW-2.\nThey allow only buses to pass through them and block all other motorized traffic.",
+              "child": [
+                {
+                  "name": "Bus Rapid Transit Filter for L0 RHW-2",
+                  "description": "This single-tile lot appear as a single tile of the L0 RHW-2 network.\nIt allows only buses and pedestrians to pass through it and block all other motorized traffic."
+                },
+                {
+                  "name": "Bus Rapid Transit Filter for L1 RHW-2",
+                  "description": "This single-tile lot appear as a single tile of the L1 RHW-2 network.\nIt allows only buses to pass through it and block all other traffic."
+                },
+                {
+                  "name": "Bus Rapid Transit Filter for L2 RHW-2",
+                  "description": "This single-tile lot appear as a single tile of the L2 RHW-2 network.\nIt allows only buses to pass through it and block all other traffic."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "El Rail Stations",
+          "description": "This option contains the El Rail stations that are available for the various El Rail networks, including the basic Maxis El Rail Network.",
+          "child": [
+            {
+              "name": "Victorian El Rail Station (Orthogonal)",
+              "description": "A Victorian El Rail station by Morifari with a one-tile overhang designed to go over a road.\nBus and optional subway service are included.\nDrag the El Rail tool through the station to activate it."
+            },
+            {
+              "name": "Victorian El Rail Station (Diagonal)",
+              "description": "A diagonal version of the Victorian El Rail station by Morifari, also with a one-tile overhang designed to go over a road.\nBus and optional subway service are included.\nDrag the El Rail tool through the station to activate it."
+            },
+            {
+              "name": "Modern El Rail Station",
+              "description": "A modern El Train station by Brenda Xne with bus and subway service, as well as car parking.\nIt has a translucent roof (made by Swamper77), so you can see the trains go by inside the station."
+            },
+            {
+              "name": "",
+              "description": ""
+            },
+            {
+              "name": "",
+              "description": ""
+            },
+            {
+              "name": "",
+              "description": ""
+            },
+            {
+              "name": "",
+              "description": ""
+            },
+            {
+              "name": "",
+              "description": ""
+            },
+            {
+              "name": "",
+              "description": ""
+            },
+            {
+              "name": "",
+              "description": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

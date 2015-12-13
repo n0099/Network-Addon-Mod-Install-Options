@@ -23,13 +23,13 @@
   - [X] `Network Widening Mod (NWM)`……*已转换*（By **LasmGratel**）
   - [X] `Ped Malls`……*已转换*（By **LasmGratel**）
   - [X] `Rail`……*已转换*（By **LasmGratel**）
-  - [ ] `Real Highway Mod (RHW)`……*转换中 30%*
-  - [ ] `Rural Roads Plugin`……*未转换*
-  - [ ] `Street Addon Mod (SAM)`……*未转换*
-- [ ] `Stations, Ports, and Network Transitions`……*未转换*
-  - [ ] `Upgraded Maxis Transit Lots`……*未转换*
-  - [ ] `Maxis Airports`……*未转换*
-  - [ ] `Bus Rapid Transit Stations`……*未转换*
+  - [X] `Real Highway Mod (RHW)`……*已转换*（By **LasmGratel**）
+  - [X] `Rural Roads Plugin`……*已转换*（By **LasmGratel**）
+  - [X] `Street Addon Mod (SAM)`……*已转换*（By **LasmGratel**）
+- [X] `Stations, Ports, and Network Transitions`……*已转换*（By **LasmGratel**）
+  - [X] `Upgraded Maxis Transit Lots`……*已转换*（By **LasmGratel**）
+  - [X] `Maxis Airports`……*已转换*（By **LasmGratel**）
+  - [ ] `Bus Rapid Transit Stations`……*转换中 30%*
   - [ ] `El Rail Stations`……*未转换*
   - [ ] `GLR and Tram Stations`……*未转换*
   - [ ] `High Speed Rail Stations`……*未转换*
