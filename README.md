@@ -29,9 +29,9 @@
 - [X] `Stations, Ports, and Network Transitions`……*已转换*（By **LasmGratel**）
   - [X] `Upgraded Maxis Transit Lots`……*已转换*（By **LasmGratel**）
   - [X] `Maxis Airports`……*已转换*（By **LasmGratel**）
-  - [ ] `Bus Rapid Transit Stations`……*转换中 30%*
-  - [ ] `El Rail Stations`……*未转换*
-  - [ ] `GLR and Tram Stations`……*未转换*
+  - [X] `Bus Rapid Transit Stations`……*已转换*（By **LasmGratel**）
+  - [X] `El Rail Stations`……*已转换*（By **LasmGratel**）
+  - [X] `GLR and Tram Stations`……*已转换*（By **LasmGratel**）
   - [ ] `High Speed Rail Stations`……*未转换*
   - [ ] `Monorail and Bullet Train Stations`……*未转换*
   - [ ] `Multi-Purpose Stations`……*未转换*

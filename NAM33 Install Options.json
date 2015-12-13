@@ -614,32 +614,106 @@
               "description": "A modern El Train station by Brenda Xne with bus and subway service, as well as car parking.\nIt has a translucent roof (made by Swamper77), so you can see the trains go by inside the station."
             },
             {
-              "name": "",
-              "description": ""
+              "name": "Overhanging El Rail Station",
+              "description": "A modern overhanging El Train station by Xyloxadoria.\nBus and optional subway service are included.\nDrag the El Rail tool through the station to activate it, then be sure to plop the El Rail Other Side lot in the opposite column."
             },
             {
-              "name": "",
-              "description": ""
+              "name": "Diagonal El Rail Station",
+              "description": "A modern diagonal El Train station by Xyloxadoria.\nBus and optional subway service are included.\nDrag the El Rail tool through the station to activate it."
             },
             {
-              "name": "",
-              "description": ""
+              "name": "Morifari Straight El Rail Station",
+              "description": "A modern overhanging El Train station by Morifari.\nBus and optional subway service are included.\nDrag the El Rail tool through the station to activate it."
             },
             {
-              "name": "",
-              "description": ""
+              "name": "Morifari Diagonal El Rail Station",
+              "description": "A modern diagonal El Train station by Morifari.\nBus and optional subway service are included.\nDrag the El Rail tool through the station to activate it."
             },
             {
-              "name": "",
-              "description": ""
+              "name": "Double-Height Elevated Rail Station",
+              "description": "This is a station by Xyloxadoria for double-height Elevated Rail.\nBus and optional subway service are included, as well as parking."
             },
             {
-              "name": "",
-              "description": ""
+              "name": "El Rail over Avenue Stations",
+              "description": "These stations are for use use with the NAM's El Rail over Avenue and El Rail over RD-4 networks.",
+              "child": [
+                {
+                  "name": "Morgan-Lake Station",
+                  "description": "This is a detailed replica by Droric of the new CTA station at Morgan and Lake on Chicago's Green and Pink lines.\nIt can be used in an Avenue or RD-4 network.\nBus and optional subway service are included."
+                }
+              ]
             },
             {
-              "name": "",
-              "description": ""
+              "name": "El Rail over Road Stations",
+              "description": "These stations are for use use with the NAM's El Rail over Road network.",
+              "child": [
+                {
+                  "name": "CTA Madison and Wells Station",
+                  "description": "This is a detailed replica by Ardecila of the CTA Beaux-Arts style El Rail over Road station that stood at the intersection of Madison and Wells in Chicago's Loop from 1897 to 1994.\nBus and optional subway service are included."
+                },
+                {
+                  "name": "CTA Ashland Station",
+                  "description": "This is a detailed replica by Ardecila of the CTA Queen Anne style El Rail over Road station that was built at the intersection of Ashland and Lake in Chicago in 1892.\nBus and optional subway service are included."
+                },
+                {
+                  "name": "Overhanging El Rail over Road Station",
+                  "description": "An El Rail over Road station built on Xyloxadoria's Modern Overhanging Station model.\nBuild your network and optional intersection around the two station end tiles, then plop this station and the El Rail over Road Other Side lot."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "GLR and Tram Stations",
+          "description": "This option contains stations for Ground Light Rail, both in its standalone form and as trams, which go down the middle of roadways.",
+          "child": [
+            {
+              "name": "GLR Stations",
+              "description": "This option contains GLR stations; GLR is essentially a ground form of Elevated Rail.",
+              "child": [
+                {
+                  "name": "SFBT Dentei GLR Station (Orthogonal)",
+                  "description": "A basic straight GLR station, two tiles long, with bus service.\nModel by NOB, station by Chrisim."
+                },
+                {
+                  "name": "SFBT Dentei GLR Station (Diagonal)",
+                  "description": "A basic diagonal GLR station, two tiles long, with bus service.\nModel by NOB, station by Chrisim."
+                },
+                {
+                  "name": "Modern GLR Station",
+                  "description": "A modern 1x4 GLR Station with integrated bus stop by Brenda Xne."
+                }
+              ]
+            },
+            {
+              "name": "Tram Stations",
+              "description": "Tram stations are for tram lines, which go down the middle of streets, roads, and avenues.",
+              "child": [
+                {
+                  "name": "SFBT Dentei Tram-in-Avenue Station (Orthogonal)",
+                  "description": "A basic straight tram station, going down the space between avenue lanes.\nIt is two tiles long, and includes bus service.\nModel by NOB, station by Chrisim."
+                },
+                {
+                  "name": "SFBT Dentei Tram-in-Avenue Station (Diagonal)",
+                  "description": "A basic diagonal tram station, going down the space between avenue lanes.\nIt is two tiles long, and includes bus service.\nModel by NOB, station by Chrisim."
+                },
+                {
+                  "name": "SFBT Tram-in-Road Station (Single Length)",
+                  "description": "A basic straight tram station, going down the space between two road lanes.\nIt is one tile long, and includes bus service.\nStation by Chrisim."
+                },
+                {
+                  "name": "SFBT Tram-in-Road Station (Double Length)",
+                  "description": "A basic straight tram station, going down the space between two road lanes.\nIt is two tiles long, and includes bus service.\nStation by Chrisim."
+                },
+                {
+                  "name": "SFBT Tram-in-Road Station (Triple Length)",
+                  "description": "A basic straight tram station, going down the space between two road lanes.\nIt is three tiles long, and includes bus service.\nStation by Chrisim."
+                },
+                {
+                  "name": "SFBT Tram-on-Street Stop",
+                  "description": "A basic straight tram station, going down the middle of a street.\nIt is one tile long, and includes bus service.\nStation by Chrisim."
+                }
+              ]
             }
           ]
         }
