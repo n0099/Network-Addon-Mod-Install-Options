@@ -184,22 +184,211 @@
                   "description": "Replaces the standard Warm Color Concrete Texture with a slightly cooler-colored one."
                 }
               ]
+            },
+            {
+              "name": "El Rail over Avenue Networks",
+              "description": "This option allows you to create El Rail over Avenue and El Rail over RD-4 networks."
+            },
+            {
+              "name": "El Rail over Road Networks",
+              "description": "This option allows you to create El Rail over Road and El Rail over Street networks."
+            },
+            {
+              "name": "Double-Height Elevated Rail",
+              "description": "This option contains puzzle pieces for creating double-height sections of your Elevated Rail networks."
             }
           ]
         },
         {
-          "name": "El Rail over Avenue Networks",
-          "description": "This option allows you to create El Rail over Avenue and El Rail over RD-4 networks."
+          "name": "Elevated Road Networks",
+          "description": "Contains both the Draggable and Modular versions of the Elevated Road Networks, which consist of elevated versions of the Road, One-Way Road, and Avenue networks.\nThese two options are totally independent.",
+          "child": [
+            {
+              "name": "Draggable Elevated Road Networks",
+              "description": "Installs draggable, elevated versions of the Road, one-Way Road, and Avenue networks."
+            },
+            {
+              "name": "Modular Elevated Road Networksm",
+              "description": "Installs both overpasses and puzzle pieces for the elevated versions of the Road, one-Way Road, and Avenue networks."
+            }
+          ]
         },
         {
-          "name": "El Rail over Road Networks",
-          "description": "This option allows you to create El Rail over Road and El Rail over Street networks."
+          "name": "Flexible Underpasses (FLUPs)",
+          "description": "Use this option for creating Flexible Underpasses."
         },
         {
-          "name": "Double-Height Elevated Rail",
-          "description": "This option contains puzzle pieces for creating double-height sections of your Elevated Rail networks."
+          "name": "Fractionally Angled Networks (FANs)",
+          "description": "Enable Fractionally Angled Networks.\nCurrently, two angles are supported: 18.43бу and 26.57бу along with their complements, 71.57бу and 63.43бу.\nThe basic repeating patterns require 2x3 tiles and 2x2 tiles, respectively.",
+          "child": [
+            {
+              "name": "Fractionally Angled Road Networks (FARs)",
+              "description": "This option allows you to create Fractionally Angled Roads, One-Way Roads, and Avenues using puzzle pieces."
+            },
+            {
+              "name": "Fractionally Angled Railroads (FARRs)",
+              "description": "This option allows you to create Fractionally Angled Railroads using puzzle pieces."
+            },
+            {
+              "name": "Draggable FAR",
+              "description": "This option allows you to create Fractionally Angled Roads by dragging without having to use puzzle pieces."
+            }
+          ]
+        },
+        {
+          "name": "Ground Light Rail / Tram",
+          "description": "Choose options for Ground Light Rail / Tram functionality.",
+          "child": [
+            {
+              "name": "Ground Light Rail",
+              "description": "Use this option for creating Ground Light Rail networks.\nThese are differentiated from the Tram networks in that Ground Light Rail does not travel in or on streets, roads, or avenues."
+            },
+            {
+              "name": "Tram in Avenue",
+              "description": "Use this option for creating Tram in Avenue networks."
+            },
+            {
+              "name": "Tram in Road",
+              "description": "Use this option for creating Tram in Road and Tram on Road networks."
+            },
+            {
+              "name": "Tram in Street",
+              "description": "Use this option for creating Tram in Street networks."
+            },
+            {
+              "name": "Extended Draggable Ground Light Rail",
+              "description": "Use this option to enable two additional Tram styles with customizable base textures (requires rebuilding pillars on Elevated Rail)."
+            }
+          ]
+        },
+        {
+          "name": "High Speed Rail Plugin",
+          "description": "The High Speed Rail Project adds a new Monorail-based network extension to the game, with the look and feel of a High Speed Rail Project line.\nIt does not replace the current Monorail or Bullet Train network."
+        },
+        {
+          "name": "Maxis Highway Override",
+          "description": " Overrides the standard Maxis highway with a highway more compatible with the RHW.\nThe standard Maxis Highway interchanges are replaced and fractionally-angled Maxis highway (FAMHW) support is added."
+        },
+        {
+          "name": "Network Widening Mod (NWM)",
+          "description": "Choose options for Network Widening Mod functionality.\nThe Network Widening Mod contains roads, one-way roads, and avenues with more lanes, and/or center turning lanes for avenues, as well as other options.",
+          "child": [
+            {
+              "name": "NWM Networks",
+              "description": "The Network Widening Mod adds new network variations with variable widths to the game for Roads, One-Way Roads, and Avenues, built from starter pieces.",
+              "child": [
+                {
+                  "name": "NWM TLA-3"
+                },
+                {
+                  "name": "NWM AVE-2"
+                },
+                {
+                  "name": "NWM ARD-3"
+                },
+                {
+                  "name": "NWM OWR-1"
+                },
+                {
+                  "name": "NWM OWR-3"
+                },
+                {
+                  "name": "NWM NRD-4"
+                },
+                {
+                  "name": "NWM TLA-5"
+                },
+                {
+                  "name": "NWM OWR-4"
+                },
+                {
+                  "name": "NWM OWR-5"
+                },
+                {
+                  "name": "NWM RD-4"
+                },
+                {
+                  "name": "NWM RD-6"
+                },
+                {
+                  "name": "NWM Triple-Tile Networks"
+                }
+              ]
+            },
+            {
+              "name": "Legacy Transition Piece Wealthification",
+              "description": "Adds grass/sidewalk textures to Transition Puzzle Pieces.\nMAY NOT WORK WITH SOME GRAPHICS CARDS."
+            }
+          ]
+        },
+        {
+          "name": "Ped Malls",
+          "description": "Installs ped malls, which are tiles of various textures that permit pedestrian traffic in all directions, but no other type of traffic."
+        },
+        {
+          "name": "Rail",
+          "description": "Includes new types of rail networks.",
+          "child": [
+            {
+              "name": "RealRailway (RRW)",
+              "description": "Changes the look of the default heavy rail network to a more realistic look and adds functionality."
+            },
+            {
+              "name": "Single Track Rail (STR)",
+              "description": "Installs Single-Track Railroads."
+            },
+            {
+              "name": "Underground Rail",
+              "description": "Installs the Underground Rail network, which is an underground version of the standard heavy rail network."
+            },
+            {
+              "name": "Viaduct Rail",
+              "description": "Installs the Viaduct Rail network, which is an elevated version of the standard heavy rail network."
+            }
+          ]
+        },
+        {
+          "name": "Real Highway Mod (RHW)",
+          "description": "Includes the full Real Highway Mod, which is a completely different alternative to the standard Maxis highways, with almost innumerable types of customizations available.\nIt does not replace the Maxis highways.",
+          "child": [
+            {
+              "name": "RHW L0 Networks",
+              "child": [
+                {
+                  "name": "RHW L0 RHW-2"
+                },
+                {
+                  "name": "RHW L0 RHW-3"
+                },
+                {
+                  "name": "RHW L0 MIS"
+                },
+                {
+                  "name": "RHW L0 RHW-4"
+                },
+                {
+                  "name": "RHW L0 RHW-6S"
+                },
+                {
+                  "name": "RHW L0 RHW-8S"
+                },
+                {
+                  "name": "RHW L0 RHW-10S"
+                },
+                {
+                  "name": "RHW L0 RHW-6C"
+                },
+                {
+                  "name": "RHW L0 RHW-8C"
+                }
+              ]
+            }
+          ]
         }
       ]
+    },
+    {
+
     }
   ]
 }
