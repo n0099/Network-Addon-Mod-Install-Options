@@ -1,28 +1,28 @@
 ##### JSON转换进度：*进行中*
 ---------------------------
-- [X] `Main NAM Files`……*已转换*
-- [X] `Documentation`……*已转换*
-- [X] `Run Cleanitol and the Station Updater`……*已转换*
-- [X] `Traffic Driving Side (Usually shouldn't be changed)`……*已转换*
-- [X] `Traffic Simulator and Related Options`……*已转换*
-  - [X] `Select Traffic Simulator and Capacity Levels`……*已转换*
-  - [X] `New Zones Data View`……*已转换*
-  - [X] `Automata Controller Type`……*已转换*
-- [X] `NAM Networks and Network Expansions`……*已转换*
-  - [X] `Bullet Train Mod (BTM)`……*已转换*
-  - [X] `Canal Addon Mod (CAN-AM)`……*已转换*
-  - [X] `Diagonal Streets`……*已转换*
-  - [X] `Double-Height Monorail / Bullet Train Mod`……*已转换*
-  - [X] `El Rail`……*已转换*
-  - [X] `Elevated Road Networks`……*已转换*
-  - [X] `Flexible Underpasses (FLUPs)`……*已转换*
-  - [X] `Fractionally Angled Networks (FANs)`……*已转换*
-  - [X] `Ground Light Rail / Tram`……*已转换*
-  - [X] `High Speed Rail Plugin`……*已转换*
-  - [X] `Maxis Highway Override`……*已转换*
-  - [X] `Network Widening Mod (NWM)`……*已转换*
-  - [X] `Ped Malls`……*已转换*
-  - [X] `Rail`……*已转换*
+- [X] `Main NAM Files`……*已转换*（By **LasmGratel**）
+- [X] `Documentation`……*已转换*（By **LasmGratel**）
+- [X] `Run Cleanitol and the Station Updater`……*已转换*（By **LasmGratel**）
+- [X] `Traffic Driving Side (Usually shouldn't be changed)`……*已转换*（By **LasmGratel**）
+- [X] `Traffic Simulator and Related Options`……*已转换*（By **LasmGratel**）
+  - [X] `Select Traffic Simulator and Capacity Levels`……*已转换*（By **LasmGratel**）
+  - [X] `New Zones Data View`……*已转换*（By **LasmGratel**）
+  - [X] `Automata Controller Type`……*已转换*（By **LasmGratel**）
+- [X] `NAM Networks and Network Expansions`……*已转换*（By **LasmGratel**）
+  - [X] `Bullet Train Mod (BTM)`……*已转换*（By **LasmGratel**）
+  - [X] `Canal Addon Mod (CAN-AM)`……*已转换*（By **LasmGratel**）
+  - [X] `Diagonal Streets`……*已转换*（By **LasmGratel**）
+  - [X] `Double-Height Monorail / Bullet Train Mod`……*已转换*（By **LasmGratel**）
+  - [X] `El Rail`……*已转换*（By **LasmGratel**）
+  - [X] `Elevated Road Networks`……*已转换*（By **LasmGratel**）
+  - [X] `Flexible Underpasses (FLUPs)`……*已转换*（By **LasmGratel**）
+  - [X] `Fractionally Angled Networks (FANs)`……*已转换*（By **LasmGratel**）
+  - [X] `Ground Light Rail / Tram`……*已转换*（By **LasmGratel**）
+  - [X] `High Speed Rail Plugin`……*已转换*（By **LasmGratel**）
+  - [X] `Maxis Highway Override`……*已转换*（By **LasmGratel**）
+  - [X] `Network Widening Mod (NWM)`……*已转换*（By **LasmGratel**）
+  - [X] `Ped Malls`……*已转换*（By **LasmGratel**）
+  - [X] `Rail`……*已转换*（By **LasmGratel**）
   - [ ] `Real Highway Mod (RHW)`……*转换中 30%*
   - [ ] `Rural Roads Plugin`……*未转换*
   - [ ] `Street Addon Mod (SAM)`……*未转换*
